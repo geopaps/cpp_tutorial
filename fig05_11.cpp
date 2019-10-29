@@ -1,10 +1,10 @@
-// Fig. 5.11: fig05_11.cpp
+// Fig. 5.11: fig05_11.cpp by GP on 29/10/2019
 // Create GradeBook object, input grades and display grade report.
 #include "GradeBook.h" // include definition of class GradeBook
 
 int main()
 {
-   // create GradeBook object
+   // create GradeBook object 
    GradeBook myGradeBook( "CS101 C++ Programming" );
 
    myGradeBook.displayMessage(); // display welcome message
